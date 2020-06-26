@@ -1,0 +1,20 @@
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerConsole\bin\Debug\EmpManagerConsole.exe.config
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerConsole\bin\Debug\EmpManagerConsole.exe
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerConsole\bin\Debug\EmpManagerConsole.pdb
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerConsole\obj\Debug\EmpManagerConsole.csprojAssemblyReference.cache
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerConsole\obj\Debug\EmpManagerConsole.exe
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerConsole\obj\Debug\EmpManagerConsole.pdb
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerConsole\bin\Debug\EmpManagerConsole.exe.config
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerConsole\bin\Debug\EmpManagerConsole.exe
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerConsole\bin\Debug\EmpManagerConsole.pdb
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerConsole\obj\Debug\EmpManagerConsole.csprojAssemblyReference.cache
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerConsole\obj\Debug\EmpManagerConsole.exe
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerConsole\obj\Debug\EmpManagerConsole.pdb
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerConsole\bin\Debug\EmpManagerConsole.exe.config
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerConsole\bin\Debug\EmpManagerConsole.exe
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerConsole\bin\Debug\EmpManagerConsole.pdb
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerConsole\bin\Debug\EmpManagerConsole.exe.CodeAnalysisLog.xml
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerConsole\bin\Debug\EmpManagerConsole.exe.lastcodeanalysissucceeded
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerConsole\obj\Debug\EmpManagerConsole.csprojAssemblyReference.cache
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerConsole\obj\Debug\EmpManagerConsole.exe
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerConsole\obj\Debug\EmpManagerConsole.pdb

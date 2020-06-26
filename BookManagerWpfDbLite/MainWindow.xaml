@@ -1,0 +1,28 @@
+﻿<Window x:Class="BookManagerWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookManagerWpf"
+        mc:Ignorable="d"
+        Title="Book Manager" Height="450" Width="800">
+    
+    <Grid>
+        <DataGrid Name="uiBookslist" ItemsSource="{Binding Books}" SelectionChanged="Bookslist_SelectionChanged" HorizontalAlignment="Left" Height="399" Margin="10,10,0,0" VerticalAlignment="Top" Width="331"/>
+
+        <Label Content="Title" HorizontalAlignment="Left" Margin="363,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.352,-0.809"/>
+        <Label Content="Author first name" HorizontalAlignment="Left" Margin="363,46,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.352,-0.809"/>
+        <Label Content="Author last name" HorizontalAlignment="Left" Margin="363,90,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.352,-0.809"/>
+        <Label Content="ISBN" HorizontalAlignment="Left" Margin="363,135,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.352,-0.809"/>
+
+        <TextBox Name="uiTextTitle" HorizontalAlignment="Left" Height="23" Margin="502,13,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="uiTextAuthorFirstname" HorizontalAlignment="Left" Height="23" Margin="502,50,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="uiTextAuthorLastname" HorizontalAlignment="Left" Height="23" Margin="502,93,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="uiTextIsbn" HorizontalAlignment="Left" Height="23" Margin="502,138,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        
+        <Button Content="Save" Click="BtnClick_Save" HorizontalAlignment="Left" Margin="363,192,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Delete" Click="BtnClick_Delete" HorizontalAlignment="Left" Margin="443,192,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Add" Click="BtnClick_Add" HorizontalAlignment="Left" Margin="523,192,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

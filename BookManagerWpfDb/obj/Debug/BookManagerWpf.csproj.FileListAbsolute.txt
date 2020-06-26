@@ -1,0 +1,42 @@
+C:\Users\wegra\source\repos\AppCoding_LLW\BookManagerWpf\bin\Debug\BookManagerWpf.exe.config
+C:\Users\wegra\source\repos\AppCoding_LLW\BookManagerWpf\bin\Debug\BookManagerWpf.exe
+C:\Users\wegra\source\repos\AppCoding_LLW\BookManagerWpf\bin\Debug\BookManagerWpf.pdb
+C:\Users\wegra\source\repos\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.csprojAssemblyReference.cache
+C:\Users\wegra\source\repos\AppCoding_LLW\BookManagerWpf\obj\Debug\MainWindow.g.cs
+C:\Users\wegra\source\repos\AppCoding_LLW\BookManagerWpf\obj\Debug\App.g.cs
+C:\Users\wegra\source\repos\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf_MarkupCompile.cache
+C:\Users\wegra\source\repos\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf_MarkupCompile.lref
+C:\Users\wegra\source\repos\AppCoding_LLW\BookManagerWpf\obj\Debug\MainWindow.baml
+C:\Users\wegra\source\repos\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.g.resources
+C:\Users\wegra\source\repos\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.Properties.Resources.resources
+C:\Users\wegra\source\repos\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.csproj.GenerateResource.cache
+C:\Users\wegra\source\repos\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.exe
+C:\Users\wegra\source\repos\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.pdb
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\bin\Debug\BookManagerWpf.exe.config
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\bin\Debug\BookManagerWpf.exe
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\bin\Debug\BookManagerWpf.pdb
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.csprojAssemblyReference.cache
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\MainWindow.g.cs
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\App.g.cs
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf_MarkupCompile.cache
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf_MarkupCompile.lref
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\MainWindow.baml
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.g.resources
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.Properties.Resources.resources
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.csproj.GenerateResource.cache
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.exe
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.pdb
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\bin\Debug\BookManagerWpf.exe.config
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\bin\Debug\BookManagerWpf.exe
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\bin\Debug\BookManagerWpf.pdb
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.csprojAssemblyReference.cache
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\MainWindow.g.cs
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\App.g.cs
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf_MarkupCompile.cache
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf_MarkupCompile.lref
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\MainWindow.baml
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.g.resources
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.Properties.Resources.resources
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.csproj.GenerateResource.cache
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.exe
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\BookManagerWpf\obj\Debug\BookManagerWpf.pdb

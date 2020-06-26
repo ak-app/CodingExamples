@@ -1,0 +1,44 @@
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerWpf\bin\Debug\EmpManagerWpf.exe.config
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerWpf\bin\Debug\EmpManagerWpf.exe
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerWpf\bin\Debug\EmpManagerWpf.pdb
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf.csprojAssemblyReference.cache
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\MainWindow.g.cs
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\App.g.cs
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf_MarkupCompile.cache
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf_MarkupCompile.lref
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\MainWindow.baml
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf.g.resources
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmployeeManager.Properties.Resources.resources
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf.csproj.GenerateResource.cache
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf.exe
+C:\Users\wegra\source\repos\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf.pdb
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\bin\Debug\EmpManagerWpf.exe.config
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\bin\Debug\EmpManagerWpf.exe
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\bin\Debug\EmpManagerWpf.pdb
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf.csprojAssemblyReference.cache
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\MainWindow.g.cs
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\App.g.cs
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf_MarkupCompile.cache
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf_MarkupCompile.lref
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\MainWindow.baml
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf.g.resources
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmployeeManager.Properties.Resources.resources
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf.csproj.GenerateResource.cache
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf.exe
+D:\Projects\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf.pdb
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\bin\Debug\EmpManagerWpf.exe.config
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\bin\Debug\EmpManagerWpf.exe
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\bin\Debug\EmpManagerWpf.pdb
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\bin\Debug\EmpManagerWpf.exe.CodeAnalysisLog.xml
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\bin\Debug\EmpManagerWpf.exe.lastcodeanalysissucceeded
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf.csprojAssemblyReference.cache
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\MainWindow.g.cs
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\App.g.cs
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf_MarkupCompile.cache
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf_MarkupCompile.lref
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\MainWindow.baml
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf.g.resources
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmployeeManager.Properties.Resources.resources
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf.csproj.GenerateResource.cache
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf.exe
+D:\Projects\R&D Software\Lehrberuf Applikationsentwicklung\Modul Programmieren\VisualStudioExample\AppCoding_LLW\EmployeesManagerWpf\obj\Debug\EmpManagerWpf.pdb

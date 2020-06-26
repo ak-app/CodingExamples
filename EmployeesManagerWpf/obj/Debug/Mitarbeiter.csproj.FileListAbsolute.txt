@@ -1,0 +1,14 @@
+C:\Users\wegra\source\repos\Mitarbeiter\Mitarbeiter\obj\Debug\Mitarbeiter.csprojAssemblyReference.cache
+C:\Users\wegra\source\repos\Mitarbeiter\Mitarbeiter\obj\Debug\MainWindow.g.cs
+C:\Users\wegra\source\repos\Mitarbeiter\Mitarbeiter\obj\Debug\App.g.cs
+C:\Users\wegra\source\repos\Mitarbeiter\Mitarbeiter\obj\Debug\MainWindow.baml
+C:\Users\wegra\source\repos\Mitarbeiter\Mitarbeiter\obj\Debug\Mitarbeiter.csproj.GenerateResource.cache
+C:\Users\wegra\source\repos\Mitarbeiter\Mitarbeiter\bin\Debug\EmployeeManager.exe.config
+C:\Users\wegra\source\repos\Mitarbeiter\Mitarbeiter\bin\Debug\EmployeeManager.exe
+C:\Users\wegra\source\repos\Mitarbeiter\Mitarbeiter\bin\Debug\EmployeeManager.pdb
+C:\Users\wegra\source\repos\Mitarbeiter\Mitarbeiter\obj\Debug\EmployeeManager_MarkupCompile.cache
+C:\Users\wegra\source\repos\Mitarbeiter\Mitarbeiter\obj\Debug\EmployeeManager_MarkupCompile.lref
+C:\Users\wegra\source\repos\Mitarbeiter\Mitarbeiter\obj\Debug\EmployeeManager.g.resources
+C:\Users\wegra\source\repos\Mitarbeiter\Mitarbeiter\obj\Debug\EmployeeManager.Properties.Resources.resources
+C:\Users\wegra\source\repos\Mitarbeiter\Mitarbeiter\obj\Debug\EmployeeManager.exe
+C:\Users\wegra\source\repos\Mitarbeiter\Mitarbeiter\obj\Debug\EmployeeManager.pdb

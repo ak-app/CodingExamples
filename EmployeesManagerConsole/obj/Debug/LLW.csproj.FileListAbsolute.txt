@@ -1,0 +1,6 @@
+C:\Users\wegra\source\repos\ConsoleApp3\LLW\bin\Debug\LLW.exe.config
+C:\Users\wegra\source\repos\ConsoleApp3\LLW\bin\Debug\LLW.exe
+C:\Users\wegra\source\repos\ConsoleApp3\LLW\bin\Debug\LLW.pdb
+C:\Users\wegra\source\repos\ConsoleApp3\LLW\obj\Debug\LLW.csprojAssemblyReference.cache
+C:\Users\wegra\source\repos\ConsoleApp3\LLW\obj\Debug\LLW.exe
+C:\Users\wegra\source\repos\ConsoleApp3\LLW\obj\Debug\LLW.pdb
